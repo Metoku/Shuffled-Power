@@ -1,0 +1,4 @@
+repository "Shuffled Power@Pomkeh@cloud"
+  path "/"
+    br "/main"
+    co "/main"
